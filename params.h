@@ -1,0 +1,2 @@
+#define MAX_ADJACENT 1000
+#define MAX_DIM 10
